@@ -12,8 +12,8 @@ describe("GET /facebook/page", function() {
       .then(response => {
         expect(response.body).toEqual({
           id: "/package/supertest",
-          name: "foo",
-          link: "https://facebook.com/foo/"
+          name: "TEST-foo",
+          link: "https://facebook.com/TEST-foo/"
         });
         done();
       });
