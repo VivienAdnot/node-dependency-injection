@@ -13,7 +13,7 @@
     "bluebird": "^3.7.2",
     "boom": "^7.3.0",
     "config": "^3.2.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parse-domain": "^2.3.4"
   },
   "devDependencies": {
